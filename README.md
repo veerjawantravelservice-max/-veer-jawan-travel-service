@@ -1,9 +1,5 @@
-# Veer Jawan Travel Service
+# Veer Jawan Travel Service Website
 
-Official website for Veer Jawan Travel Service, Surendranagar.
+Includes logo, promotional banner, mobile-responsive styling, Google Maps link, WhatsApp enquiry, services, booking notes, and genuine Google review CTA.
 
-Services: Flight Booking, Railway & Tatkal Assistance, Hotel Booking, Holiday Packages and Visa Assistance.
-
-WhatsApp: +91 7878685551
-
-The site is a static enquiry website. It does not claim live fares, live seat availability, or confirmed bookings.
+This is a static enquiry website; it does not provide live booking, payment processing, or guaranteed ticket confirmation.
