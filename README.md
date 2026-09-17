@@ -1,8 +1,9 @@
-# Veer Jawan Travel Service Website
-A free, mobile-responsive static business website with a working WhatsApp enquiry form.
+# Veer Jawan Travel Service
 
-## Publish for ₹0
-Upload `index.html`, `style.css`, and `script.js` to GitHub Pages or Cloudflare Pages.
+Official website for Veer Jawan Travel Service, Surendranagar.
 
-## Note
-This is a real enquiry/lead-generation site. It does not fake live airline, railway or hotel inventory, payment, PNRs or booking confirmations.
+Services: Flight Booking, Railway & Tatkal Assistance, Hotel Booking, Holiday Packages and Visa Assistance.
+
+WhatsApp: +91 7878685551
+
+The site is a static enquiry website. It does not claim live fares, live seat availability, or confirmed bookings.
